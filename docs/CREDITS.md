@@ -16,8 +16,8 @@ The following persons have contributed to the project in a notable way.
 * [Aero_] and [ARCHIE] - Vehicle reflection and graphics-related patches.
 
 ### Vehicles
-* [AlbinoBuffalo_80], [Mati The Mudkip], and [Darknes] - Various customization parts and vehicle models.
-* [379Felipe], [nlgxzef], [NFSF1McLaren], and [Red Fire] - Improvements to vanilla vehicle models.
+* [AlbinoBuffalo_80], [Mati The Mudkip], [Darknes] and [WF4123] - Various customization parts and vehicle models.
+* [379Felipe], [nlgxzef], [NFSF1McLaren], [Red Fire] and [WF4123] - Improvements to vanilla vehicle models.
 * [RaTT] and [Reameb] - Improvements and creation of vehicle performance parts.
 * [RaTT], [Savo], [TDOG20], and [Zertex] - Performance testing of various vehicles.
 
@@ -53,6 +53,7 @@ The following persons have contributed to the project in a notable way.
 [rx]: https://github.com/rxyyy
 [Savo]: https://youtube.com/@DnBlast
 [TDOG20]: https://youtube.com/@tdog20.
+[WF4123]: https://x.com/wf4123
 [Xinerki]: https://github.com/Xinerki
 [Zertex]: https://www.youtube.com/@zertex1666
 
